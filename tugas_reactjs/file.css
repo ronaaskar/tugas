@@ -1,0 +1,33 @@
+
+.buah {
+    width: 400px;
+    height: 350px;
+    border-style: solid;
+
+}
+
+.atas {
+    color: darkgray;
+    font-size: larger;
+}
+.kotak{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+img {
+ width: 350px;
+ height: 100px;
+}
+
+
+button {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  width: 90%;
+  background-color: blue;
+  color: ghostwhite;
+}
